@@ -149,7 +149,7 @@ Saved in `models/`:
 
 - Video Demo:
 
-<video src="[./assets/video.mp4](https://github.com/alisulmanpro/email-spam-detection-system/blob/master/assets/video.mp4)" width="100%" controls></video>
+<video src="https://github.com/alisulmanpro/email-spam-detection-system/blob/master/assets/video.mp4" width="100%" controls></video>
 
 ## Author
 
