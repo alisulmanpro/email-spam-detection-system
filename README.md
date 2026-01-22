@@ -145,11 +145,11 @@ Saved in `models/`:
 
 - `tfidf_vectorizer.pkl` → TF-IDF feature transformer
 
-## Demo & Media (Optional)
+## Demo
 
 - Video Demo:
 
-<video src="./assets/video.mp4" width="100%" controls></video>
+<video src="https://res.cloudinary.com/doetqiwsa/video/upload/v1769078551/recording_2026-01-21T18-30-51-627Z_ytftqc.webm" width="100%" controls></video>
 
 ## Author
 
